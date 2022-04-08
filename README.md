@@ -1,5 +1,7 @@
 # gotest-to-org
-Simple go test report to org-mode transformer
+Simple go test report to org-mode transformer.
+Sometimes you have a lot of log output in a lot of tests,
+then this tool might become useful.
 
 ## Building
 
